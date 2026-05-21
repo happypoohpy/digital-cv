@@ -9,14 +9,14 @@ version: 2
 name: Joy Marie Navales
 title: Mobile Engineer
 email: jmlnavz12@gmail.com
-website: https://github.com/osakalawliet/
+website: https://github.com/happypoohpy/
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
 # twitter_username: facespics
-github_username:  osakalawliet
+github_username:  happypoohpy
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -58,7 +58,19 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-    
+      - layout: top-middle
+        title: Trucker Path Load Board
+        link: https://apps.apple.com/ph/app/trucker-path-load-board/id1007287939
+        link_text: App Store
+        quote: >
+         Contributed to one of the largest truck-safe routing and navigation SaaS applications using Swift.
+        description: |  # this will include new lines to allow paragraphs
+          
+          <center><div class="images-container">
+          
+          <img src="/digital-cv/images/truckloads1.PNG" alt="truckloads1"> <img src="/digital-cv/images/truckloads2.PNG" alt="truckloads2" class="img-right"> <img src="/digital-cv/images/truckloads3.PNG" alt="truckloads3" class="img-right"> <img src="/digital-cv/images/truckloads4.PNG" alt="truckloads4" class="img-right">
+          </div></center>
+          
       - layout: top-middle
         title: Inspectorio Sight
         link: https://apps.apple.com/ph/app/inspectorio-sight/id1533620438
@@ -172,15 +184,17 @@ content:
         link: https://www.moatable.com
         link_text: moatable.com
         sub_title: iOS Engineer
-        caption: August 2023 - Present
+        caption: August 2023 - May 2026
         quote: >
           Moatable provides management expertise, support services, and capital to help our SaaS businesses grow, scale, and reach their full potential.
         description: | # this will include new lines to allow paragraphs
-          - Using Swift and React Native for building truck-safe routing and navigation Saas app
+          - Using Swift and React Native for building truck-safe routing and navigation SaaS applications
 
-          - Using Jenkins for CI/CD
+          - Using MVVM architecture and design patterns for scalable and maintainable code
 
-          - Using JIRA for project management
+          - Using Jenkins for CI/CD and Mixpanel/Firebase for analytics and monitoring
+
+          - Using Cursor and Claude to improve development workflow and productivity
 
           - Effective collaboration with global team
           
