@@ -48,12 +48,12 @@ linkedin_username: joy-marie-navales-9ab973198
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I'm Joy, and I specialize in creating mobile applications. 
-  
-  My expertise lies in native development for both <mark>Android</mark> and <mark>iOS</mark> platforms. 
-  
-  Additionally, I have been working on website development using <mark>WordPress</mark>, and I possess some experience in <mark>React</mark>, <mark>JavaScript</mark>, and <mark>PHP</mark>.
-  
+  Hello! I'm Joy, a Mobile Engineer with 12+ years of experience building high-quality mobile applications.
+
+  My expertise lies in native iOS and Android development using <mark>Swift<\mark>, <mark>Kotlin<\mark>, and modern mobile architectures. I also have experience developing cross-platform applications using <mark>React Native<\mark> and <mark>Flutter<\mark>. In addition, I have worked on website development using <mark>WordPress<\mark> and have experience with <mark>React<\mark>, <mark>JavaScript<\mark>, and <mark>PHP<\mark>.
+
+  I am a <mark>fast learner<\mark> who can quickly pick up new technologies and frameworks. I am <mark>self-driven<\mark> when learning, leveraging documentation, online resources, and hands-on experimentation to <mark>understand new concepts<\mark> and become <mark>productive<\mark> quickly.
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
